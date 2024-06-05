@@ -1,5 +1,3 @@
-Claro, aqui está tudo consolidado em um único bloco de markdown:
-
 ```markdown
 # Ocean Health Tracker 🌊🐟
 
@@ -7,7 +5,8 @@ O projeto **Ocean Health Tracker** foi criado para ajudar a proteger os oceanos,
 
 ## Descrição 📝
 
-O objetivo deste projeto é criar um sistema de monitoramento ambiental utilizando o ESP32 e sensores DHT22 e HC-SR04. Os dados coletados são enviados para a plataforma TagoIO para visualização e análise em tempo real, contribuindo para a proteção e conservação dos oceanos.
+O objetivo deste projeto é criar um sistema de monitoramento ambiental utilizando o ESP32 e sensores DHT22 e HC-SR04.
+Os dados coletados são enviados para a plataforma TagoIO para visualização e análise em tempo real, contribuindo para a proteção e conservação dos nossos oceanos.
 
 ## Funcionalidades 🌟
 
@@ -30,7 +29,7 @@ O objetivo deste projeto é criar um sistema de monitoramento ambiental utilizan
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/seuprojeto.git
+   git clone (https://github.com/mathhfarias/GS_EDGE/tree/main)
    ```
 
 2. Abra o projeto na sua IDE de preferência (por exemplo, Arduino IDE).
@@ -107,15 +106,13 @@ Contribuições são bem-vindas! Por favor, abra um problema ou envie um pull re
 
 ## Licença 📄
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença Ocean Health Tracker. Veja `LICENSE` para mais informações.
 
-## Contato 📧
+## Equipe Ocean Health Tracker 📧
 
-**Matheus Farias de Lima** - [@seutwitter](https://twitter.com/seutwitter) - seuemail@example.com
+**Matheus Farias de Lima** - **RM 554254**
 
-**Miguel Mauricio Parrado Patarroyo** - [@seutwitter](https://twitter.com/seutwitter) - seuemail@example.com
+**Miguel Mauricio Parrado Patarroyo** - **RM RM554007**
 
-Link do Projeto: [https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario/seuprojeto)
-```
+Link do Projeto: https://wokwi.com/projects/399802217466137601
 
-Este README.md fornece uma visão geral clara e amigável do projeto, incluindo todas as informações necessárias para instalação, configuração e uso, com a adição de emojis para tornar o documento mais visualmente atraente.
