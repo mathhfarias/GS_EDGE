@@ -112,7 +112,7 @@ Distribuído sob a licença Ocean Health Tracker. Veja `LICENSE` para mais infor
 
 **Matheus Farias de Lima** - **RM 554254**
 
-**Miguel Mauricio Parrado Patarroyo** - **RM RM554007**
+**Miguel Mauricio Parrado Patarroyo** - **RM 554007**
 
 Link do Projeto: https://wokwi.com/projects/399802217466137601
 
