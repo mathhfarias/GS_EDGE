@@ -1,12 +1,16 @@
 ```markdown
 # Ocean Health Tracker 🌊🐟
 
-O projeto **Ocean Health Tracker** foi criado para ajudar a proteger os oceanos, monitorando a temperatura da água, a umidade do ar, a distância da terra mais próxima (a partir da localização do sensor) e a temperatura do ar.
+O projeto **Ocean Health Tracker** foi criado para ajudar a proteger os oceanos, monitorando
+a temperatura da água, a umidade do ar, a distância da terra mais próxima (a partir da localização do sensor)
+e a temperatura do ar.
 
 ## Descrição 📝
 
-O objetivo deste projeto é criar um sistema de monitoramento ambiental utilizando o ESP32 e sensores DHT22 e HC-SR04.
-Os dados coletados são enviados para a plataforma TagoIO para visualização e análise em tempo real, contribuindo para a proteção e conservação dos nossos oceanos.
+O objetivo deste projeto é criar um sistema de monitoramento ambiental utilizando o ESP32
+e sensores DHT22 e HC-SR04.
+Os dados coletados são enviados para a plataforma TagoIO para visualização e análise em tempo real,
+contribuindo para a proteção e conservação dos nossos oceanos.
 
 ## Funcionalidades 🌟
 
@@ -74,7 +78,8 @@ Os dados coletados são enviados para a plataforma TagoIO para visualização e 
 
 ### Diagrama de Conexão
 
-Aqui está um diagrama básico de como os sensores são conectados ao ESP32:
+Aqui está um diagrama básico de como os sensores 
+são conectados ao ESP32:
 
 ```
 ESP32            DHT22            HC-SR04
